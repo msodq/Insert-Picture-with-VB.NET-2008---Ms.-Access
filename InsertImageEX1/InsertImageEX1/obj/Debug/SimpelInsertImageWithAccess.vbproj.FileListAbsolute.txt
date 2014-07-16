@@ -1,0 +1,10 @@
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\bin\Debug\SimpelInsertImageWithAccess.exe
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\bin\Debug\SimpelInsertImageWithAccess.pdb
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\bin\Debug\SimpelInsertImageWithAccess.xml
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\SimpelInsertImageWithAccess.main.resources
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\SimpelInsertImageWithAccess.Resources.resources
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\SimpelInsertImageWithAccess.vbproj.GenerateResource.Cache
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\SimpelInsertImageWithAccess.exe
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\SimpelInsertImageWithAccess.xml
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\SimpelInsertImageWithAccess.pdb

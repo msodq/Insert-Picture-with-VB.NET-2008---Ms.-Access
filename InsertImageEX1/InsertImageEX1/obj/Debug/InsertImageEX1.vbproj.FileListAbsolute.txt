@@ -1,0 +1,20 @@
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\bin\Debug\InsertImageEX1.exe
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\bin\Debug\InsertImageEX1.pdb
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\bin\Debug\InsertImageEX1.xml
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\InsertImageEX1.main.resources
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\InsertImageEX1.Resources.resources
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\InsertImageEX1.vbproj.GenerateResource.Cache
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\InsertImageEX1.exe
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\InsertImageEX1.xml
+C:\Users\msodq\AppData\Local\Temporary Projects\SimpelInsertImageWithAccess\obj\Debug\InsertImageEX1.pdb
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\obj\Debug\InsertImageEX1.exe
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\obj\Debug\InsertImageEX1.xml
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\obj\Debug\InsertImageEX1.pdb
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\bin\Debug\InsertImageEX1.exe
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\bin\Debug\InsertImageEX1.pdb
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\bin\Debug\InsertImageEX1.xml
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\obj\Debug\ResolveAssemblyReference.cache
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\obj\Debug\InsertImageEX1.main.resources
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\obj\Debug\InsertImageEX1.Resources.resources
+D:\@ project\vs 2008\InsertImageEX1\InsertImageEX1\obj\Debug\InsertImageEX1.vbproj.GenerateResource.Cache
